@@ -1,7 +1,6 @@
 <h3>welcome to my cyber space</h3>
 
 <div style="display: flex; align-items: center;">
-   <img src="https://i.postimg.cc/Kz9mPCJP/download-1.gif" alt="GIF" style="border-radius: 900px;">
   <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" alt="Sthefany's GitHub stats" style="margin-right: 20px;">
 </div><div style="display: flex;">
   <img src="https://i.postimg.cc/h4zG8tRh/python-2.png" alt="Python" width="30" style="margin-right: 10px;">
