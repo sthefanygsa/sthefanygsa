@@ -40,12 +40,19 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
-  <span style="font-size: 60px; font-weight: bold;">Contact: linkedin.com/in/sthefany-alves-ti</span>
-</div>
-<div>
-  <img src="images/email.gif" width="200">
+  <span style="font-size: 60px; font-weight: bold;">Current Stack: Front-end, Back-end, Database, Networks & Information Security</span>
 </div>
 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Tools I Use: VS Code, Git, PostgreSQL, XAMPP, Figma, Android Studio, GeoGebra, Node.js</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Operating Systems: Windows & Linux</span>
+</div>
+<br>
 <img src="images/tenor.gif" width="750">
 
 <img src="images/catputer.gif" width="100">
