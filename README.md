@@ -48,10 +48,6 @@
 
 <img src="images/tenor.gif" width="750">
 
-<div>
-  <img src="images/pastelghost2.gif" width="200"><img src="images/crystalcastles.gif" width="200"><img src="images/skeletons.gif" width="200">
-</div>
-
 <img src="images/catputer.gif" width="100">
 
 
