@@ -1,7 +1,7 @@
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/diamond.gif" width="24"><img src="./images/pc.gif" width="24"><img src="./images/purpleroll.gif" width="24">
+  <img src="./images/purpleroll.gif" width="24">
   <span style="font-size: 80px; font-weight: bold;">𝙚𝙣𝙩𝙚𝙧𝙞𝙣𝙜 𝙢𝙮 𝙘𝙮𝙗𝙚𝙧 𝙙𝙞𝙢𝙚𝙣𝙨𝙞𝙤𝙣</span>
-  <img src="./images/purpleroll.gif" width="24"><img src="./images/pc.gif" width="24"><img src="./images/diamond.gif" width="24">
+  <img src="./images/purpleroll.gif" width="24">
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
