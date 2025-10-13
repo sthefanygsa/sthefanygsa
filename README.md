@@ -19,9 +19,9 @@
 ![SQL](https://img.shields.io/badge/SQL-DB00B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white)
+<img src="images/tenor.gif" width="750">
 
-  
-  <img src="./images/kawaii.gif" width="80"><span style="font-size: 80px; font-weight: bold;"> 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 </span><img src="./images/kawaii.gif" width="80">
+<img src="./images/kawaii.gif" width="80"><span style="font-size: 80px; font-weight: bold;"> 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 </span><img src="./images/kawaii.gif" width="80">
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
@@ -40,5 +40,18 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
-  <span style="font-size: 60px; font-weight: bold;">Contact: sthefanygsa@gmail.com</span>
+  <span style="font-size: 60px; font-weight: bold;">Contact: linkedin.com/in/sthefany-alves-ti</span>
 </div>
+<div>
+  <img src="images/email.gif" width="200">
+</div>
+
+<img src="images/tenor.gif" width="750">
+
+<div>
+  <img src="images/pastelghost2.gif" width="200"><img src="images/crystalcastles.gif" width="200"><img src="images/skeletons.gif" width="200">
+</div>
+
+<img src="images/catputer.gif" width="100">
+
+
