@@ -20,3 +20,20 @@
 ![Java](https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white)
 
+  
+  <img src="./images/kawaii.gif" width="80"><span style="font-size: 80px; font-weight: bold;"> 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 </span><img src="./images/kawaii.gif" width="80">
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Studying Systems Analysis and Development</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Working as an Information Technology Intern</span>
+</div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Into the world of Hacking & Cybersecurity</span>
+</div>
