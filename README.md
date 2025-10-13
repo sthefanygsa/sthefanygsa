@@ -37,3 +37,8 @@
   <img src="./images/arrow.gif" width="15">
   <span style="font-size: 60px; font-weight: bold;">Into the world of Hacking & Cybersecurity</span>
 </div>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/arrow.gif" width="15">
+  <span style="font-size: 60px; font-weight: bold;">Contact: sthefanygsa@gmail.com</span>
+</div>
