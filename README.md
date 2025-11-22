@@ -1,29 +1,37 @@
 <br>
+
 <p align="center">
-  <img src="images/divider_uau2.png" width="500">
+  <img src="images/dividerpink.png" width="500">
 </p>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/happy.gif" width="60">
-  <span style="font-size: 70px; font-weight: bold;">𝗵𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝘀𝘁𝗵𝗲! 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗰𝘆𝗯𝗲𝗿 𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻 </span>
-  <img src="./images/diamond.gif" width="10">
-</div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" alt="Sthefany's GitHub stats" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanygsa&layout=compact&theme=jolly" alt="Top Languages" style="height: 150px;">
-</div>
+<h1 align="center">
+  𝗵𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝘀𝘁𝗵𝗲! 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗰𝘆𝗯𝗲𝗿 𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻
+</h1>
 
-![C](https://img.shields.io/badge/C-2D00F7?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6A00F4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-8900F2?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-A100F2?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-B100E8?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-BC00DD?style=for-the-badge&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-D100D1?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-DB00B6?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white)
-<img src="images/tenor.gif" width="770">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanygsa&layout=compact&theme=jolly" height="150">
+</p>
+
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/C-2D00F7?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-6A00F4?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-8900F2?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-A100F2?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-B100E8?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-BC00DD?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-D100D1?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-DB00B6?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white">
+
+</p>
+
+<p align="center">
+  <img src="images/tenor.gif" width="1000">
+</p>
+
 
 <img src="./images/diamond.gif" width="10"><span style="font-size: 80px; font-weight: bold;"> about me </span><img src="./images/diamond.gif" width="10">
 
