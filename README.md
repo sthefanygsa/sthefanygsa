@@ -1,7 +1,11 @@
+<br>
+<p align="center">
+  <img src="images/divider_uau2.png" width="500">
+</p>
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/purpleroll.gif" width="24">
-  <span style="font-size: 80px; font-weight: bold;">hello, i'm sthe! welcome to my cyber dimension</span>
-  <img src="./images/purpleroll.gif" width="24">
+  <img src="./images/happy.gif" width="60">
+  <span style="font-size: 70px; font-weight: bold;">𝗵𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝘀𝘁𝗵𝗲! 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗰𝘆𝗯𝗲𝗿 𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻 </span>
+  <img src="./images/diamond.gif" width="10">
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -19,9 +23,9 @@
 ![SQL](https://img.shields.io/badge/SQL-DB00B6?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white)
-<img src="images/tenor.gif" width="750">
+<img src="images/tenor.gif" width="770">
 
-<img src="./images/kawaii.gif" width="80"><span style="font-size: 80px; font-weight: bold;"> 𝙖𝙗𝙤𝙪𝙩 𝙢𝙚 </span><img src="./images/kawaii.gif" width="80">
+<img src="./images/diamond.gif" width="10"><span style="font-size: 80px; font-weight: bold;"> about me </span><img src="./images/diamond.gif" width="10">
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
@@ -30,7 +34,7 @@
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
-  <span style="font-size: 60px; font-weight: bold;">Working as an Information Technology Intern</span>
+  <span style="font-size: 60px; font-weight: bold;">Working as an Information Technology Intern — Hardware, Networks & Software Stuff</span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
@@ -47,10 +51,15 @@
   <img src="./images/arrow.gif" width="15">
   <span style="font-size: 60px; font-weight: bold;">Operating Systems: Windows & Linux</span>
 </div>
-<br>
-<img src="images/tenor.gif" width="750">
 
-<img src="images/catputer.gif" width="100">
+<br>
+
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="./images/sticker_pinkphone.gif" width="25">
+  <span style="font-size: 60px; font-weight: bold;">Tech lets me mix music, fashion, art and aesthetics with the cyber world. i love studying cybersecurity and i’m especially into retro-futuristic tech.</span>
+</div>
+
+<img src="images/cemiterie.gif" width="120"><img src="images/catputer.gif" width="120">
 
 
 
