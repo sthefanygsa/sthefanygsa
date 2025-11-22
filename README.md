@@ -49,7 +49,7 @@
 </div>
 <br>
 <img src="images/tenor.gif" width="750">
-<img src="images/divider_uau2.png" width="750">
+<img src="images/divider_uau2.png" width="500">
 
 <img src="images/catputer.gif" width="100">
 
