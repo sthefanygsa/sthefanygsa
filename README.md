@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
   <img src="images/dividerpink.png" width="500">
 </p>
@@ -7,6 +5,7 @@
 <h1 align="center">
   𝗵𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝘀𝘁𝗵𝗲! 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗰𝘆𝗯𝗲𝗿 𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻
 </h1>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" height="150">
@@ -33,7 +32,12 @@
 </p>
 
 
-<img src="./images/diamond.gif" width="10"><span style="font-size: 80px; font-weight: bold;"> about me </span><img src="./images/diamond.gif" width="10">
+<h1 align="center" style="font-size: 80px; font-weight: bold;">
+  <img src="./images/kawaii.gif" width="100">
+  𝗮𝗯𝗼𝘂𝘁 𝗺𝗲
+  <img src="./images/kawaii.gif" width="100">
+</h1>
+
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrow.gif" width="15">
@@ -67,7 +71,15 @@
   <span style="font-size: 60px; font-weight: bold;">Tech lets me mix music, fashion, art and aesthetics with the cyber world. i love studying cybersecurity and i’m especially into retro-futuristic tech.</span>
 </div>
 
-<img src="images/cemiterie.gif" width="120"><img src="images/catputer.gif" width="120">
+<p align="center">
+  <img src="images/tenor.gif" width="1000">
+</p>
 
+<p align="center">
+  <img src="images/frase.png" width="300">
+</p>
+<p align="center">
+  <img src="images/espada.png" width="300">
+</p>
 
 
