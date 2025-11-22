@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/purpleroll.gif" width="24">
-  <span style="font-size: 80px; font-weight: bold;">𝙚𝙣𝙩𝙚𝙧𝙞𝙣𝙜 𝙢𝙮 𝙘𝙮𝙗𝙚𝙧 𝙙𝙞𝙢𝙚𝙣𝙨𝙞𝙤𝙣</span>
+  <span style="font-size: 80px; font-weight: bold;">hello, i'm sthe! welcome to my cyber dimension</span>
   <img src="./images/purpleroll.gif" width="24">
 </div>
 
@@ -49,7 +49,6 @@
 </div>
 <br>
 <img src="images/tenor.gif" width="750">
-<img src="images/divider_uau2.png" width="500" style="display: block; margin: 0 auto;">
 
 <img src="images/catputer.gif" width="100">
 
