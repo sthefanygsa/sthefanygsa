@@ -2,10 +2,8 @@
   <img src="images/divider_uau2.png" width="500">
 </p>
 
-<h1 align="center">
-  hello, i'm sthe! welcome to my cyber dimension ᯓ★
-</h1>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=6000&color=FDFDFD&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=900&height=100&lines=hello%2C+i'm+sthe!+welcome+to+my+cyber+dimension!" alt="Typing SVG" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" height="150">
