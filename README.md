@@ -2,38 +2,38 @@
   <img src="images/divider_uau2.png" width="500">
 </p>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=30&duration=6000&color=FDFDFD&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=900&height=100&lines=hello%2C+i'm+sthe!+welcome+to+my+cyber+dimension!" alt="Typing SVG" /></a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthefanygsa&show_icons=true&theme=jolly" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthefanygsa&layout=compact&theme=jolly" height="150">
-</p>
+<h1 align="center" style="font-size: 80px; font-weight: bold;">
+  hello, i'm sthe! welcome to my cyber dimension!
+</h1>
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/C-2D00F7?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-6A00F4?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-8900F2?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML-A100F2?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-B100E8?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-BC00DD?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-D100D1?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-DB00B6?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-E500A4?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-F20089?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-FFCBF2?style=for-the-badge&logo=c&logoColor=000000">
+<img src="https://img.shields.io/badge/C%23-F3C4FB?style=for-the-badge&logo=c-sharp&logoColor=000000">
+<img src="https://img.shields.io/badge/C++-ECBCFD?style=for-the-badge&logo=c%2B%2B&logoColor=000000">
+<img src="https://img.shields.io/badge/CSS-E5B3FE?style=for-the-badge&logo=css3&logoColor=000000">
+<img src="https://img.shields.io/badge/Dart-E2AFFF?style=for-the-badge&logo=dart&logoColor=000000">
+<img src="https://img.shields.io/badge/Flutter-DEAAFF?style=for-the-badge&logo=flutter&logoColor=000000">
+<img src="https://img.shields.io/badge/HTML-D8BBFF?style=for-the-badge&logo=html5&logoColor=000000">
+<img src="https://img.shields.io/badge/Java-D0D1FF?style=for-the-badge&logo=java&logoColor=000000">
+<img src="https://img.shields.io/badge/JavaScript-C8E7FF?style=for-the-badge&logo=javascript&logoColor=000000">
+<img src="https://img.shields.io/badge/PHP-C0FDFF?style=for-the-badge&logo=php&logoColor=000000">
+<img src="https://img.shields.io/badge/Python-F9D1F6?style=for-the-badge&logo=python&logoColor=000000">
+<img src="https://img.shields.io/badge/SQL-D4C7FF?style=for-the-badge&logo=mysql&logoColor=000000">
+
+
 
 </p>
 
 <p align="center">
-  <img src="images/tenor.gif" width="1000">
+  <img src="images/linebar_pink.png" width="1000">
 </p>
 
 
 <h1 align="center" style="font-size: 80px; font-weight: bold;">
-  <img src="./images/kawaii.gif" width="100">
-  𝗮𝗯𝗼𝘂𝘁 𝗺𝗲
-  <img src="./images/kawaii.gif" width="100">
+  <img src="./images/sticker_musicplayer.gif" width="25">
+  about me
+  <img src="./images/sticker_musicplayer.gif" width="25">
 </h1>
 
 
@@ -70,14 +70,8 @@
 </div>
 
 <p align="center">
-  <img src="images/tenor.gif" width="1000">
+  <img src="images/linebar_pink.png" width="1000">
 </p>
 
-<p align="center">
-  <img src="images/frase.png" width="300">
-</p>
-<p align="center">
-  <img src="images/espada.png" width="300">
-</p>
 
 
