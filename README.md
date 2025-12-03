@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="images/dividerpink.png" width="500">
+  <img src="images/divider_uau2.png" width="500">
 </p>
 
 <h1 align="center">
-  𝗵𝗲𝗹𝗹𝗼, 𝗶'𝗺 𝘀𝘁𝗵𝗲! 𝘄𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗰𝘆𝗯𝗲𝗿 𝗱𝗶𝗺𝗲𝗻𝘀𝗶𝗼𝗻 ᯓ★
+  hello, i'm sthe! welcome to my cyber dimension ᯓ★
 </h1>
 
 
