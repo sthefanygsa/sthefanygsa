@@ -31,9 +31,9 @@
 
 
 <h1 align="center" style="font-size: 80px; font-weight: bold;">
-  <img src="./images/sticker_musicplayer.gif" width="25">
+  <img src="./images/flowers.gif" width="25">
   about me
-  <img src="./images/sticker_musicplayer.gif" width="25">
+  <img src="./images/flowers.gif" width="25">
 </h1>
 
 
