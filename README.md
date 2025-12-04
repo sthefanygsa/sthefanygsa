@@ -2,10 +2,6 @@
   <img src="images/divider_uau2.png" width="500">
 </p>
 
-<h1 align="center" style="font-size: 80px; font-weight: bold;">
-  hello, i'm sthe! welcome to my cyber dimension!
-</h1>
-
 <p align="center">
   
 <img src="https://img.shields.io/badge/C-FFCBF2?style=for-the-badge&logo=c&logoColor=000000">
