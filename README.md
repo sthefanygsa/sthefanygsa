@@ -31,9 +31,9 @@
 
 
 <h1 align="center" style="font-size: 80px; font-weight: bold;">
-  <img src="./images/bunny.gif" width="15">
+  <img src="./images/sparkless.gif" width="25">
   about me
-  <img src="./images/bunny.gif" width="15">
+  <img src="./images/sparkless.gif" width="25">
 </h1>
 
 
