@@ -25,10 +25,6 @@
 
 </p>
 
-<p align="center">
-  <img src="images/linebar_pink.png" width="1000">
-</p>
-
 
 <h1 align="center" style="font-size: 80px; font-weight: bold;">
   <img src="./images/sparkless.gif" width="25">
@@ -38,27 +34,27 @@
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/arrow.gif" width="15">
+  <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Studying Systems Analysis and Development</span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/arrow.gif" width="15">
+  <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Working as an Information Technology Intern — Hardware, Networks & Software Stuff</span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/arrow.gif" width="15">
+  <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Current Stack: Front-end, Back-end, Database, Networks & Information Security</span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/arrow.gif" width="15">
+  <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Tools I Use: VS Code, Git, PostgreSQL, XAMPP, Figma, Android Studio, Node.js</span>
 </div>
 
 <div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/arrow.gif" width="15">
+  <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Operating Systems: Windows & Linux</span>
 </div>
 
