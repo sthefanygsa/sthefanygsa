@@ -25,14 +25,6 @@
 
 </p>
 
-
-<h1 align="center" style="font-size: 80px; font-weight: bold;">
-  <img src="./images/sparkless.gif" width="25">
-  about me
-  <img src="./images/sparkless.gif" width="25">
-</h1>
-
-
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="./images/arrowww.png" width="15">
   <span style="font-size: 60px; font-weight: bold;">Studying Systems Analysis and Development</span>
