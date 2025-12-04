@@ -31,9 +31,9 @@
 
 
 <h1 align="center" style="font-size: 80px; font-weight: bold;">
-  <img src="./images/flowers.gif" width="25">
+  <img src="./images/bunny.gif" width="15">
   about me
-  <img src="./images/flowers.gif" width="25">
+  <img src="./images/bunny.gif" width="15">
 </h1>
 
 
@@ -64,14 +64,6 @@
 
 <br>
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img src="./images/sticker_pinkphone.gif" width="25">
-  <span style="font-size: 60px; font-weight: bold;">Tech lets me mix music, fashion, art and aesthetics with the cyber world. i love studying cybersecurity and i’m especially into retro-futuristic tech.</span>
-</div>
-
-<p align="center">
-  <img src="images/linebar_pink.png" width="1000">
-</p>
 
 
 
